@@ -1,0 +1,1 @@
+let productos = ["tele", "computadora", "cuaderno"]
